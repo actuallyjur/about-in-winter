@@ -1,0 +1,9 @@
+发现原来我之前搭过..复习了一下
+
+XAMPP+WORDPRESS
+
+步骤:
+1.下载安装XAMPP,WORDPRESS
+2.打开XAMPP的Apache,把htdocs文件下的东西都删掉,复制整个wordpress文件过去
+3.确保打开Apache和MySQL,然后就可以打开wordpress创建数据库了
+4.完了就可以在localhost/wp-admin进入后台在网站搭建了
